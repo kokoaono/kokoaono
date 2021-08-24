@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 Feel free to reach out [Linked In](https://www.linkedin.com/in/koko-ono-826182218/)
+
 <!--
 **kokoaono/kokoaono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
