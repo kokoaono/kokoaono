@@ -1,4 +1,4 @@
-### Hi there 👋 I am Koko Ono
+### Hi there 👋 I am Koko.
 - 👩‍🎓 I graduated from Enspiral Dev Academy in August 2021 (Auckland, NZ).
 - 🌱 I am starting my tech journey with passion, dedication, and for further improvement.
 - 💖 I love to create things that have a positive impact on individuals as well as on communities.
